@@ -23,7 +23,6 @@ Welcome to my GitHub profile! I am a dedicated Computer Science and Engineering 
 
 ---
 
-### 📊 My Coding Activity
 
-![Srushti's GitHub stats](https://vercel.app)
+
 
