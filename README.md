@@ -23,7 +23,6 @@ Welcome to my GitHub profile! I am a dedicated Computer Science and Engineering 
 
 ---
 
-... 
 
 
 
