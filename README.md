@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I am a dedicated Computer Science and Engineering 
 ---
 
 
-profile... 36000
+profile..... 360000
 
 
 
